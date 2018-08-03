@@ -9,6 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module|action|container|effect|entity|feature|reducer|store`.
+
 For generating ngrx specific code you can use `ng generate action|container|effect|entity|feature|reducer|store`.
 [ngrx schematics](https://github.com/ngrx/platform/tree/master/docs/schematics).
 
